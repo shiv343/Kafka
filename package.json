@@ -1,0 +1,10 @@
+{
+  "name": "kafka",
+  "packageManager": "yarn@4.9.1",
+  "dependencies": {
+    "kafkajs": "^2.2.4"
+  },
+  "devDependencies": {
+    "prettier": "^3.6.2"
+  }
+}
