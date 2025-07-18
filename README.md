@@ -126,11 +126,6 @@ Creating topic [rider-updates]...
 
 ---
 
-## 🚧 Next Steps
-
-- `producer.js` → Send test messages to `rider-updates`  
-- `consumer.js` → Read messages from `rider-updates`  
-
 ---
 
 ## 🔗 References
